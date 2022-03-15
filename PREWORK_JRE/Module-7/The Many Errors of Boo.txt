@@ -1,0 +1,29 @@
+- The first error I discovered was that the main head was not properly
+sized.
+
+- The second issue I noticed was the JS functions were not working.
+Not only was the script not targetting the correct file, but some of the
+"click" functions had no "" (for the colors and height/width). 
+
+- I don't know if this was an issue, but the "var" was not at the top
+of the page, but maybe for 'good' practice I placed it at the top.
+(also a lack of documenting, which I added to make it easier in
+future prospects.)
+
+- I then recognized fault in the image tag, which had no brackets.
+
+- Boo's list of favorite things was in shambles, having no list tags.
+
+- Another issue of concern was the link to Boo's Wikipedia page, which
+was not placed properly into the "src".
+
+- Many of the divs were hard to read, so they were promptly spaced
+accordingly.
+
+- The random facts for Boo were not individually quoted, and therefor
+all appeared in one mass of text.
+
+			I think that sums it up.
+
+
+

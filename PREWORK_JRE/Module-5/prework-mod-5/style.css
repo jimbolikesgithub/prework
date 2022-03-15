@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+.aka {
+    color: rgb(175, 28, 28);
+}
+
+.ao {
+    color: rgb(28, 30, 175);
+}
+
+.midori {
+    color: rgb(58, 163, 45); 
+}
+
+.da {
+    font-size: 30px;
+}
+
+.xiao {
+    font-size: 8px;
+}
+
+.zhongxin-dian {
+    text-align: center;
+}
+
+.kakan {
+    font-weight: bold;
+}
+
+.ziti {
+    font-family: 'Ubuntu', 'sans-serif';
+}
+
+.shuxing {
+    font-size: 20px;
+    color:rgb(228, 95, 19);
+    font-weight: bold;
+}
+
+.yangshi {
+    position: relative;
+    display: block;
+    border: 1px solid #000;
+    border-radius: 5px;
+    background-color: rgb(211, 106, 202);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#xiangpian {
+    width: 50%;
+    position: relative;
+    display: block;
+    border: 2px solid #f33;
+}
